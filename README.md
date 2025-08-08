@@ -23,7 +23,6 @@ This repository hosts the **Email Spam Detection** project, an interactive web a
 4. [Project Workflow](#-project-workflow)
 5. [Screenshots](#-screenshots)
 6. [Future Enhancements](#-future-enhancements)
-7. [Contributors](#-contributors)
 
 ---
 
@@ -83,10 +82,6 @@ streamlit run app.py
 ### 🏠 Home Page
 
 ![home.png](https://ik.imagekit.io/jxtjn4hpqj/Screenshot%202025-05-24%20095612.png?updatedAt=1748060803517)
-
-### 🧠 Prediction Output
-
-![output.png](https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)
 
 ---
 
