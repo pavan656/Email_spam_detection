@@ -51,7 +51,7 @@ This project was built to combine **ML accuracy** with **real-world usability**,
 
 ```bash
 git clone https://github.com/pavan656/Email_spam_detection.git
-cd Email-Spam-Detection
+cd Email_spam_detection
 ```
 
 ### Install Dependencies:
